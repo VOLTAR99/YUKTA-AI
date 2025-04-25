@@ -65,7 +65,7 @@ flutter run
 
 | Home Page                                 | Chat Interface                                      |  
 |-----------------------------------------------|------------------------------------------------|  
-| ![Home Page]([https://github.com/suraj-yadav0/ai_assistent/assets/90672206/e92f8435-48a4-4398-b10f-bf7309a379b7](https://github.com/VOLTAR99/YUKTA-AI/blob/main/assets/outputs/YUKTA%20AI.png)) | ![Chat Interface]([https://github.com/suraj-yadav0/ai_assistent/assets/90672206/2ec45b9c-3f61-4297-9a2a-b75309b0b891](https://github.com/VOLTAR99/YUKTA-AI/blob/main/assets/outputs/Chat%20bot%201.png)) |  
+| ![Home Page](https://github.com/VOLTAR99/YUKTA-AI/blob/main/assets/outputs/YUKTA%20AI.png) | ![Chat Interface](https://github.com/VOLTAR99/YUKTA-AI/blob/main/assets/outputs/Chat%20bot%201.png) |  
 
 | AI Image generator                                    | Translator                                     |  
 |-----------------------------------------------|------------------------------------------------|  
