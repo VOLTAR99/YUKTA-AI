@@ -20,7 +20,7 @@ class _AiTextToImageGeneratorState extends State<AiTextToImageGenerator> {
   // Instance of StabilityAI for image generation
   final StabilityAI _ai = StabilityAI();
   // API key for the AI service
-  final String apiKey = 'sk-95oQ6HXnQJCWq702EF7a1QLSYI25TvHA9uipyQ8hLZf8aHIQ';
+  final String apiKey = 'YOUR_API_KEY';
   // Set the style for the generated image
   final ImageAIStyle imageAIStyle = ImageAIStyle.digitalPainting;
   // Flag to check if images have been generated
