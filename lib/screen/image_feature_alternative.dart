@@ -6,7 +6,6 @@ import 'package:yukta_ai/Palates/color.dart';
 import 'package:yukta_ai/Widget/custom_button.dart';
 import 'package:yukta_ai/helper/global.dart';
 
-
 //Stabality AI
 class AiTextToImageGenerator extends StatefulWidget {
   const AiTextToImageGenerator({super.key});
@@ -20,7 +19,7 @@ class _AiTextToImageGeneratorState extends State<AiTextToImageGenerator> {
   // Instance of StabilityAI for image generation
   final StabilityAI _ai = StabilityAI();
   // API key for the AI service
-  final String apiKey = 'sk-95oQ6HXnQJCWq702EF7a1QLSYI25TvHA9uipyQ8hLZf8aHIQ';
+  final String apiKey = 'YOUR_API_KEY';
   // Set the style for the generated image
   final ImageAIStyle imageAIStyle = ImageAIStyle.digitalPainting;
   // Flag to check if images have been generated
@@ -69,7 +68,7 @@ class _AiTextToImageGeneratorState extends State<AiTextToImageGenerator> {
                   decoration: const InputDecoration(
                     fillColor: lightS,
                     filled: true,
-        
+
                     hintText: 'Enter your prompt',
                     border: OutlineInputBorder(
                       borderRadius: BorderRadius.all(Radius.circular(10)),
